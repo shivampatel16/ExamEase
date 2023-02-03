@@ -1,4 +1,4 @@
-# ExamEase: Scheduling Exams with Graph Coloring and Red Black Trees
+# ExamEase: Scheduling Student Exams with Graph Coloring and Red Black Trees
 
 - Implemented a Java program to read and process student class schedules and build a graph from the data
 
